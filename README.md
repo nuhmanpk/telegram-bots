@@ -21,7 +21,12 @@ Welcome to my portfolio showcasing some of the open-source Telegram bots I've de
 1. ## [VisionScriptBot](https://github.com/nuhmanpk/VisionScriptBot) 👁️
    A Telegram bot that uses Google's Gemini Pro Vision API to convert images to text.<br>
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=VisionScriptBot)](https://github.com/nuhmanpk/VisionScriptBot)
+   
+1. ## [Referral-Bot](https://github.com/nuhmanpk/Referral-Bot) 🚀
+   A Telegram bot that shows how to refer a user and save the record.<br>
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=Referral-Bot)](https://github.com/nuhmanpk/Referral-Bot)
 
+   
 1. ## [AudioBook](https://github.com/nuhmanpk/AudioBook) 🔊
    A Telegram Bot that converts PDFs to audio using PyPDF2 and gTTS.<br>
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=AudioBook)](https://github.com/nuhmanpk/AudioBook)
