@@ -26,10 +26,9 @@ Welcome to my portfolio showcasing some of the open-source Telegram bots I've de
    A Telegram bot that shows how to refer a user and save the record.<br>
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=Referral-Bot)](https://github.com/nuhmanpk/Referral-Bot)
    
-1. ## [Referral-Bot](https://github.com/nuhmanpk/crypto-bot) 🚀
+1. ## [crypto-bot](https://github.com/nuhmanpk/crypto-bot) 🚀
    A Simple and powerful telegram bot that can fetch all crypto related details.<br>
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=crypto-bot)](https://github.com/nuhmanpk/crypto-bot)
-
    
 1. ## [AudioBook](https://github.com/nuhmanpk/AudioBook) 🔊
    A Telegram Bot that converts PDFs to audio using PyPDF2 and gTTS.<br>
@@ -48,7 +47,7 @@ Welcome to my portfolio showcasing some of the open-source Telegram bots I've de
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=text2imagebot)](https://github.com/nuhmanpk/text2imagebot)
 
 1. ## [PriceTrackerBot](https://github.com/nuhmanpk/PriceTrackerBot) 💰
-   A Telegram bot that scrapes Flipkart URLs and keeps track of price changes, alerting the user when there is a price change.<br>
+   A Telegram bot that scrapes Flipkart / amazon URLs and keeps track of price changes, alerting the user when there is a price change.<br>
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=PriceTrackerBot)](https://github.com/nuhmanpk/PriceTrackerBot)
 
 1. ## [HandWriting-Bot](https://github.com/nuhmanpk/HandWriting-Bot) ✍️
@@ -132,4 +131,15 @@ Welcome to my portfolio showcasing some of the open-source Telegram bots I've de
 
 
 [More...](https://t.me/bughunterbots)
+
+
+<!-- Template
+
+1. ## [heading](https://github.com/nuhmanpk/repoName) 🚫
+   Some text here.<br>
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=repoName)](https://github.com/nuhmanpk/repoName)
+
+-->
+
+
 
