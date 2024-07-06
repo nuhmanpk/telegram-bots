@@ -25,6 +25,10 @@ Welcome to my portfolio showcasing some of the open-source Telegram bots I've de
 1. ## [Referral-Bot](https://github.com/nuhmanpk/Referral-Bot) 🚀
    A Telegram bot that shows how to refer a user and save the record.<br>
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=Referral-Bot)](https://github.com/nuhmanpk/Referral-Bot)
+   
+1. ## [Referral-Bot](https://github.com/nuhmanpk/crypto-bot) 🚀
+   A Simple and powerful telegram bot that can fetch all crypto related details.<br>
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=crypto-bot)](https://github.com/nuhmanpk/crypto-bot)
 
    
 1. ## [AudioBook](https://github.com/nuhmanpk/AudioBook) 🔊
@@ -45,11 +49,11 @@ Welcome to my portfolio showcasing some of the open-source Telegram bots I've de
 
 1. ## [PriceTrackerBot](https://github.com/nuhmanpk/PriceTrackerBot) 💰
    A Telegram bot that scrapes Flipkart URLs and keeps track of price changes, alerting the user when there is a price change.<br>
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=VisionScriptBot)](https://github.com/nuhmanpk/VisionScriptBot)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=PriceTrackerBot)](https://github.com/nuhmanpk/PriceTrackerBot)
 
 1. ## [HandWriting-Bot](https://github.com/nuhmanpk/HandWriting-Bot) ✍️
    Telegram Bot to convert text to handwriting using pywhatkit.<br>
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=PriceTrackerBot)](https://github.com/nuhmanpk/PriceTrackerBot)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=HandWriting-Bot)](https://github.com/nuhmanpk/HandWriting-Bot)
 
 1. ## [RolePlayAI Bot](https://github.com/nuhmanpk/RolePlayAI) 🎭
    RolePlayAI is a cutting-edge AI-powered Telegram bot that transforms into various knowledgeable and empathetic roles, such as a doctor, lawyer, police officer, and more. Powered by OpenAI's GPT model.<br>
@@ -70,11 +74,11 @@ Welcome to my portfolio showcasing some of the open-source Telegram bots I've de
 
 1. ## [ban-bot](https://github.com/nuhmanpk/ban-bot) 🚫
    A simple bot for banning members in a group.<br>
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=VisionScriptBot)](https://github.com/nuhmanpk/VisionScriptBot)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=ban-bot)](https://github.com/nuhmanpk/ban-bot)
 
 1. ## [Mp4-to-Mp3-Converter Bot](https://github.com/nuhmanpk/Mp4-to-Mp3-Converter) 🎵
    A simple Telegram bot that converts MP4 videos to MP3 audio files.<br>
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=ban-bot)](https://github.com/nuhmanpk/ban-bot)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=Mp4-to-Mp3-Converter)](https://github.com/nuhmanpk/Mp4-to-Mp3-Converter)
 
 1. ## [pyDF-Bot](https://github.com/nuhmanpk/pyDF-Bot) 📄
    Pyrogram Document File Bot, a modular Telegram Bot providing PDF tools using PyPDF2.<br>
