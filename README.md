@@ -130,7 +130,7 @@ Welcome to my portfolio showcasing some of the open-source Telegram bots I've de
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=AntiService-AntiCommand)](https://github.com/nuhmanpk/AntiService-AntiCommand)
 
 
-[More...](https://t.me/bughunterbots)
+[More...](https://github.com/nuhmanpk)
 
 
 <!-- Template
