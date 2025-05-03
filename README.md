@@ -7,8 +7,8 @@ Welcome to my portfolio showcasing some of the open-source Telegram bots I've de
 - **Total Bots:** 25+ 
 - **Total Stars:** 500+
 - **Total Forks:** 120+
-- **Languages Used:** Python, JavaScript
-- **Frameworks:** Pyrogram, Telegraf.js
+- **Languages Used:** Python, JavaScript, TypeScript
+- **Frameworks:** Pyrogram, Telegraf.js, Grammy.js
 
 ---
 
@@ -33,6 +33,10 @@ Welcome to my portfolio showcasing some of the open-source Telegram bots I've de
 1. ## [AudioBook](https://github.com/nuhmanpk/AudioBook) 🔊
    A Telegram Bot that converts PDFs to audio using PyPDF2 and gTTS.<br>
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=AudioBook)](https://github.com/nuhmanpk/AudioBook)
+
+1. ## [WatchWomen](https://github.com/nuhmanpk/watchwomen) 👮‍♀️
+   A Simple , powerfull group / channel modulation bot which is fully built in TypeScript.<br>
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=watchwomen)](https://github.com/nuhmanpk/watchwomen)
 
 1. ## [Filter-Adder](https://github.com/nuhmanpk/Filter-Adder) 🔍
    An advanced filter bot that uses custom filters/tags and triggers a specific event on matching messages.<br>
@@ -66,7 +70,6 @@ Welcome to my portfolio showcasing some of the open-source Telegram bots I've de
    Simple Telegram bot on Telegraf.js using JavaScript.<br>
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=telegraf-bot)](https://github.com/nuhmanpk/telegraf-bot)
 
-
 1. ## [PyttsBot](https://github.com/nuhmanpk/PyttsBot) 🗣️
    A Pyrogram Bot for the gtts module, enabling text-to-speech functionality on Telegram.<br>
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=PyttsBot)](https://github.com/nuhmanpk/PyttsBot)
@@ -83,7 +86,6 @@ Welcome to my portfolio showcasing some of the open-source Telegram bots I've de
    Pyrogram Document File Bot, a modular Telegram Bot providing PDF tools using PyPDF2.<br>
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=pyDF-Bot)](https://github.com/nuhmanpk/pyDF-Bot)
 
-
 1. ## [autoban-Unban](https://github.com/nuhmanpk/autoban-Unban) 🚷
    A Telegram bot that bans and unbans users from a chat.<br>
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=autoban-Unban)](https://github.com/nuhmanpk/autoban-Unban)
@@ -99,7 +101,6 @@ Welcome to my portfolio showcasing some of the open-source Telegram bots I've de
 1. ## [NoLink Bot](https://github.com/nuhmanpk/No-Link) 🚫🔗
    A simple Telegram bot that automatically deletes links in groups.<br>
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuhmanpk&repo=No-Link)](https://github.com/nuhmanpk/No-Link)
-
 
 1. ## [Instant-Caption-Adder](https://github.com/nuhmanpk/Instant-Caption-Adder) 📝
    A simple Telegram bot that adds custom captions to all messages forwarded to the channel.<br>
